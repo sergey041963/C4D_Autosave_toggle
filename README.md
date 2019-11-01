@@ -7,8 +7,8 @@ Also the plugin's icon shows the actual status of autosave option when Cinema 4D
 
 Installation:
 
-Download Autosave.zip
-Unzip them to your C4D plugins folder
-Enjoy
+1. Download Autosave.zip
+2. Unzip them to your C4D plugins folder
+3. Enjoy
 
 Tip: Add the plugins to your favorite palette via "Customize Commands... (Shift+F12)" Take a look at the Autosave_example.png file
