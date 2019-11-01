@@ -11,5 +11,4 @@ Download Autosave.zip
 Unzip them to your C4D plugins folder
 Enjoy
 
-
 Tip: Add the plugins to your favorite palette via "Customize Commands... (Shift+F12)" Take a look at the Autosave_example.png file
